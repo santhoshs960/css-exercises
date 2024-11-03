@@ -1,0 +1,24 @@
+.a {
+    background-color: rgba(225, 0, 0, 0.3);
+    font-size: 22px;
+    font-family: Verdana, sans-serif, sans-serif;
+    font-weight: 400;
+
+}
+
+#b {
+    color: blue;
+    font-size: 36px;
+}
+
+.a.b.c {
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+#c {
+    background-color: rgb(121, 224, 121);
+    font-size: 24px;
+    font-weight: bold;
+}
